@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006400</color>
+    <color name="colorPrimaryDark">#252A34</color>
+    <color name="colorAccent">#FF2E63</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#DDDDDD</color>
+    <color name="colorAquaGray">#D2F7FA</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorClear">#00000000</color>
+    <color name="colorClearGray">#99000000</color>
+    <color name="colorYellow">#ffff00</color>
+    <color name="colorBlue">#0000ff</color>
+    <color name="colorAqua">#00ffff</color>
+    <color name="colorLime">#00ff00</color>
+    <color name="colorRed">#ff0000</color>
+    <!--収支カラー一覧-->
+    <color name="income_color1">#4A7FF0</color>
+    <color name="income_color2">#50C0FA</color>
+    <color name="income_color3">#38DFE0</color>
+    <color name="income_color4">#4DFABB</color>
+    <color name="income_color5">#4FF07A</color>
+    <!--支出カラー一覧-->
+    <color name="spending_color1">#F0E346</color>
+    <color name="spending_color2">#FACB4B</color>
+    <color name="spending_color3">#E08D34</color>
+    <color name="spending_color4">#FA7248</color>
+    <color name="spending_color5">#F03C58</color>
+    <color name="spending_color6">#DC60F0</color>
+    <color name="spending_color7">#B922F0</color>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite"
+    android:orientation="horizontal">
+<ImageButton
+    android:id="@+id/ib_top"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:layout_marginLeft="5dp"
+    android:scaleType="centerCrop"
+    android:src="@drawable/icon_header_app"
+    android:background="@color/colorClear"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:text="@string/app_name"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:textColor="@color/colorBlack"
+        android:textStyle="bold"/>
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_edit"
+        android:background="@color/colorClear"
+        android:padding="5dp"
+        android:layout_marginRight="5dp"
+        android:scaleType="centerCrop"/>
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon_user"
+        android:background="@color/colorClear"
+        android:padding="5dp"
+        android:layout_marginRight="5dp"
+        android:scaleType="centerCrop"/>
+</LinearLayout>

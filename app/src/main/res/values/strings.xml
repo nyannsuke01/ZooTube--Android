@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ZooTube</string>
+    <string name="api_key">AIzaSyDX5-yLCpSa-QXFKoISRwMIbd3M9UqRWd0</string>
+    <!--フラグメント-->
+    <string name="fragment_one">ねこ</string>
+    <string name="fragment_two">いぬ</string>
+    <string name="fragment_three">うさぎ</string>
+    <string name="fragment_four">パンダ</string>
+    <string name="fragment_five">ハムスター</string>
+    <string name="fragment_six">りす</string>
+    <string name="fragment_seven">イルカ</string>
+    <string name="fragment_eight">しろくま</string>
+    <string name="fragment_nine">ペンギン</string>
+    <string name="fragment_ten">ライオン</string>
+    <!--YoutubeDataAPI-->
+    <string name = "base_url">https://www.googleapis.com/youtube/v3/search?part=id,snippet&amp;q=target_key&amp;order=date&amp;maxResults=5&amp;type=video&amp;videoCategoryId=15&amp;key=</string>
+    <string name = "channel_url">https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&amp;id=target_id&amp;key=</string>
+    <!--WebView-->
+    <string name = "youtube_url">https://www.youtube.com/watch?v=</string>
+    <!--Share画面-->
+    <string name = "channelinfo">登録者数:</string>
+    <string name = "share_hint">かわいい動物を見つけたら、コメントを入れてシェア！</string>
+    <string name = "share_button">シェアする</string>
+    <!--エラーコード-->
+    <string name = "error_code1">001</string>
+    <string name = "error_code2">002</string>
+    <string name = "error_code3">003</string>
+    <string name = "error_code4">004</string>
+</resources>
